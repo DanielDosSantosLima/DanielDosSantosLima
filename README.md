@@ -1,6 +1,6 @@
 ## Olá, eu sou o Daniel👋💪🏾🐈📚🛸👨🏾‍🏫
 
-<h4> Sou um desenvolvedor full stack em início de carreira.
+<h3> Sou um desenvolvedor full stack em início de carreira.
 
 - 🖥️ Estudante no Bootcamp Desenvolvedor Full Stack JAVA - Generation  
 
@@ -10,7 +10,7 @@
 
 - 🎓 Bacharel em Letras (Português-Inglês) - USP
 
-</h4>
+</h3>
 
 ### Localização:
 🌍 Barueri, São Paulo - Brasil
