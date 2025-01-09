@@ -2,9 +2,9 @@
 
 I am a full stack developer, with a background in education and a great desire to learn :)
 
-- 🖥️ Student at Bootcamp Full Stack Developer JAVA - Generation Brazil
+- 🖥️ Student: Full Stack JAVA Developer Bootcamp - Generation Brazil
 
-- 🖥️ Student at Bachelor of Information Systems - USP
+- 🖥️ Student: Bachelor of Information Systems - USP
 
 - 🎓 Degree in Languages (Portuguese-English) - USP
 
