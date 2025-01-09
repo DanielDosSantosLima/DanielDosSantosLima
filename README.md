@@ -1,4 +1,4 @@
-## Olá, eu sou o Daniel👋💪🏾🐈📚🛸👨🏾‍🏫
+## Olá, eu sou o Daniel 💪🏾🐈📚🛸👨🏾‍🏫
 
  Sou um desenvolvedor full stack em início de carreira, com background na área da educação e muita vontade de aprender :)
 
