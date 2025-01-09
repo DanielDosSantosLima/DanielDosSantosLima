@@ -52,3 +52,10 @@
 <img aling="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
+<div align="center">
+<br>
+<br>
+<p align="center"></p> 
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FDanielDosSantosLima&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visitantes%3A++&ta="/></p> 
+<br>
+</div>
