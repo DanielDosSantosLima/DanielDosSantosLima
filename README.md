@@ -1,29 +1,34 @@
 ## Olá, eu sou o Daniel👋💪🏾🐈📚🛸👨🏾‍🏫
 
-Sou um desenvolvedor full stack em início de carreira.
+<h5> Sou um desenvolvedor full stack em início de carreira.
 
-🖥️ Estudante no Bootcamp Desenvolvedor Full Stack JAVA - Generation  
+- 🖥️ Estudante no Bootcamp Desenvolvedor Full Stack JAVA - Generation  
 
-🖥️ Estudante no Bacharelado em Sistemas de Informação - USP
+- 🖥️ Estudante no Bacharelado em Sistemas de Informação - USP
 
-🎓 Licenciado em Letras (Português-Inglês) - USP
+- 🎓 Licenciado em Letras (Português-Inglês) - USP
 
-🎓 Bacharel em Letras (Português-Inglês) - USP
+- 🎓 Bacharel em Letras (Português-Inglês) - USP
 
-📫 Barueri, SP - Brasil
+- 📫 Barueri, SP - Brasil
+</h5>
 
 ### Contato:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieldossantoslima/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanielDosSantosLima)
-[![Gmail](https://img.shields.io/badge/Gmail-0078D4?style=for-the-badge&logo=gmail&logoColor=red)](mailto:dsl.daniel.santos.lima@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white")](mailto:dsl.daniel.santos.lima@gmail.com)
 
 ## 📈 Dados sobre mim: 
 
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielDosSantosLima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDosSantosLima&layout=compact&langs_count=16&theme=tokyonight"/>
-<br/><br/><br/><br/><br/><br/><br/><br/>
-
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+ <img height=185 align="center" src="https://github-readme-stats.vercel.app/api?username=DanielDosSantosLima&rank_icon=github&theme=holi"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+ <img height=185 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDosSantosLima&layout=compact&langs_count=7&theme=holi"/>
+</div>
+          
 ## 🚀 Habilidades:
 ### Back-End:
 <div style="display: inline_block">
