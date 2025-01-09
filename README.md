@@ -1,25 +1,25 @@
-## Olá, eu sou o Daniel 💪🏾🐈📚🛸👨🏾‍🏫
+## Hi, I'm Daniel 💪🏾🐈📚🛸👨🏾‍🏫
 
- Sou um desenvolvedor full stack em início de carreira, com background na área da educação e muita vontade de aprender :)
+I am a full stack developer at the start of my carrer, with a background in education and a great desire to learn :)
 
-- 🖥️ Estudante no Bootcamp Desenvolvedor Full Stack JAVA - Generation Brasil
+- 🖥️ Student at Bootcamp Full Stack Developer JAVA - Generation Brazil
 
-- 🖥️ Estudante no Bacharelado em Sistemas de Informação - USP
+- 🖥️ Student in Bachelor of Information Systems - USP
 
-- 🎓 Licenciado em Letras (Português-Inglês) - USP
+- 🎓 Degree in Languages (Portuguese-English) - USP
 
-- 🎓 Bacharel em Letras (Português-Inglês) - USP
+- 🎓 Bachelor in Languages (Portuguese-English) - USP
 
 
-### Localização:
-🌍 Barueri, São Paulo - Brasil
+### Location:
+🌍 Barueri, São Paulo - Brazil
 
-### Contato:
+### Contact:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieldossantoslima/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:dsl.daniel.santos.lima@gmail.com)
 
-## 📈 Dados sobre mim: 
+## 📈 Statistics about me: 
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -29,14 +29,14 @@
  <img height=185 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDosSantosLima&layout=compact&langs_count=7&theme=holi"/>
 </div>
           
-## 🚀 Habilidades:
+## 🚀 Skills:
 ### Back-End:
 <div style="display: inline_block">
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 </div>
 
-### Banco de Dados:
+### Database:
 <div style="display: inline_block">
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
@@ -50,7 +50,7 @@
     <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div>
 
-### Ferramentas:
+### Tools:
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 <img aling="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 ![Insomnia](https://img.shields.io/badge/-Insomnia-0D1117?style=for-the-badge&logo=insomnia&labelColor=0D1117)&nbsp;
@@ -63,6 +63,6 @@
 <br>
 <br>
 <p align="center"></p> 
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FDanielDosSantosLima&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visitantes%3A++&ta="/></p> 
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FDanielDosSantosLima&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta="/></p> 
 <br> 
 </div>
