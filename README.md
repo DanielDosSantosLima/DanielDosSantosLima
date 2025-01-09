@@ -1,6 +1,6 @@
 ## Olá, eu sou o Daniel👋💪🏾🐈📚🛸👨🏾‍🏫
 
- Sou um desenvolvedor full stack em início de carreira, com background na área da educação e grande vontade de aprender :)
+ Sou um desenvolvedor full stack em início de carreira, com background na área da educação e muita vontade de aprender :)
 
 - 🖥️ Estudante no Bootcamp Desenvolvedor Full Stack JAVA - Generation Brasil
 
