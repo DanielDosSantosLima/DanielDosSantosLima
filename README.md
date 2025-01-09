@@ -4,7 +4,7 @@ I am a full stack developer, with a background in education and a great desire t
 
 - 🖥️ Student at Bootcamp Full Stack Developer JAVA - Generation Brazil
 
-- 🖥️ Student in Bachelor of Information Systems - USP
+- 🖥️ Student at Bachelor of Information Systems - USP
 
 - 🎓 Degree in Languages (Portuguese-English) - USP
 
