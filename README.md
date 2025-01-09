@@ -1,6 +1,6 @@
 ## Hi, I'm Daniel 💪🏾🐈📚🛸👨🏾‍🏫
 
-I am a full stack developer at the start of my carrer, with a background in education and a great desire to learn :)
+I am a full stack developer, with a background in education and a great desire to learn :)
 
 - 🖥️ Student at Bootcamp Full Stack Developer JAVA - Generation Brazil
 
