@@ -10,13 +10,14 @@
 
 - 🎓 Bacharel em Letras (Português-Inglês) - USP
 
-- 📫 Barueri, SP - Brasil
 </h4>
+
+### Localização:
+🌍 Barueri, São Paulo - Brasil
 
 ### Contato:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieldossantoslima/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanielDosSantosLima)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white")](mailto:dsl.daniel.santos.lima@gmail.com)
 
 ## 📈 Dados sobre mim: 
@@ -33,7 +34,7 @@
 ### Back-End:
 <div style="display: inline_block">
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+    <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 </div>
 
 ### Banco de Dados:
@@ -56,7 +57,7 @@
 
 ### IDEs:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-0D1117?style=for-the-badge&logo=eclipseide&logoColor=90ee90&labelColor=0D1117)&nbsp;
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
 ![Insomnia](https://img.shields.io/badge/-Insomnia-0D1117?style=for-the-badge&logo=insomnia&labelColor=0D1117)&nbsp;
 
 <div align="center">
