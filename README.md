@@ -6,9 +6,9 @@ I am a full stack developer, with a background in education and a great desire t
 
 - 🖥️ Student: Bachelor of Information Systems - USP
 
-- 🎓 Degree in Languages (Portuguese-English) - USP
+- 🎓 Degree in Arts(Language and Literature) (Portuguese-English) - USP
 
-- 🎓 Bachelor in Languages (Portuguese-English) - USP
+- 🎓 Bachelor in Arts(Language and Literature) (Portuguese-English) - USP
 
 
 ### Location:
