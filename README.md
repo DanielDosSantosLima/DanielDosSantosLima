@@ -28,8 +28,11 @@ I am a full stack developer, with a background in education and a great desire t
 <a href="https://github.com/anuraghazra/convoychat">
  <img height=185 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDosSantosLima&layout=compact&langs_count=7&theme=holi"/>
 </div>
+ 
+## 💭 Soft Skills:
+- Communication, leadership, problem solving, detail orientation and organization.
           
-## 🚀 Skills:
+## 🚀 Hard Skills:
 ### Back-End:
 <div style="display: inline_block">
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
