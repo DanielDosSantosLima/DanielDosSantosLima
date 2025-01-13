@@ -1,4 +1,4 @@
-## Hi, I'm Daniel 💪🏽🐈👨🏽‍🏫📚🛸🧑🏽‍💻
+## Hi, I'm Daniel 🏋🏾🐈👨🏽‍🏫📚🛸🧑🏽‍💻
 
 I am a full stack developer, with a background in education and a great desire to learn :)
 
