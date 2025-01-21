@@ -4,7 +4,7 @@ I am a full stack developer, with a background in education and a great desire t
 
 - 🖥️ Student: <Hello, ONE!/> - Oracle + Alura
   
-- 🖥️ Student: Full Stack JAVA Developer Bootcamp - Generation Brazil
+- 🖥️ Student: Full Stack JAVA REACT Developer Bootcamp - Generation Brazil
 
 - 🖥️ Student: Bachelor of Information Systems - USP
 
