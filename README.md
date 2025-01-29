@@ -2,11 +2,11 @@
 
 I am a full stack developer, with a background in education and a great desire to learn :)
 
-- 🖥️ Student: <Hello, ONE!/> - Oracle + Alura
-  
+- 🖥️ Student: Bachelor of Information Systems - USP
+
 - 🖥️ Student: Full Stack JAVA REACT Developer Bootcamp - Generation Brazil
 
-- 🖥️ Student: Bachelor of Information Systems - USP
+- 🖥️ Student: <Hello, ONE!/> - Oracle + Alura
 
 - 🎓 Bachelor's Degree in Language and Literature (Portuguese-English) - USP
 
