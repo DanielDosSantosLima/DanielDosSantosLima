@@ -12,7 +12,7 @@ I am a full stack developer, with a background in education and a great desire t
 
 
 ### Location:
-🌍 Barueri, São Paulo - Brazil
+🌍 Cajamar, São Paulo - Brazil
 
 ### Contact:
 
