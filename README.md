@@ -4,9 +4,9 @@ I am a full stack developer, with a background in education and a great desire t
 
 - 🖥️ Student: Bachelor of Information Systems - USP
 
-- 🖥️ Student: Full Stack JAVA REACT Developer Bootcamp - Generation Brazil
-
 - 🖥️ Student: <Hello, ONE!/> - Oracle + Alura
+ 
+- 🎓 Full Stack JAVA REACT Developer - Generation Brazil
 
 - 🎓 Bachelor's Degree in Language and Literature (Portuguese-English) - USP
 
