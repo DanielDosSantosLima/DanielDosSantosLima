@@ -2,7 +2,7 @@
 
 I am a full stack developer, with a background in education and a great desire to learn :)
 
-- 🖥️ Student: Bachelor of Information Systems - USP
+- 🖥️ Student: Bachelor's Degree in Information Systems - USP
 
 - 🖥️ Student: <Hello, ONE!/> - Oracle + Alura
  
