@@ -1,18 +1,16 @@
-## Hi, I'm Daniel 🏋🏾🐈👨🏽‍🏫📚🛸🧑🏽‍💻
+## Hi! 🏋🏾🐈👨🏽‍🏫📚🛸🧑🏽‍💻
 
-I am a full stack developer, with a background in education and a great desire to learn :)
+I am Daniel, a student with a background in education and a great desire to learn :)
 
 - 🖥️ Student: Bachelor's Degree in Information Systems - USP
-
-- 🖥️ Student: <Hello, ONE!/> - Oracle + Alura
  
-- 🎓 Full Stack JAVA REACT Developer - Generation Brazil
+- 🎓 Full Stack Java React Developer - Generation Brazil
 
 - 🎓 Bachelor's Degree in Language and Literature (Portuguese-English) - USP
 
 
 ### Location:
-🌍 Cajamar, São Paulo - Brazil
+🌍 São Paulo - Brazil
 
 ### Contact:
 
